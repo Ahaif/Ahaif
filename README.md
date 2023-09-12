@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-* I am Abdel from Morocco I am open to new opportunities, and I'll be happy to collaborate with you.
-* contact me : ha.abdelmoughite@gmail.com
+* I am Abdel I am open to new opportunities, and I'll be happy to collaborate with you.
+* contact me : haifouli.abdelmoughite@gmail.com
 
 Projects Listed by Technology:
   - [Algorithms C/C++](https://github.com/stars/Ahaif/lists/algorithms-c-c)
